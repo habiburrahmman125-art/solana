@@ -20,7 +20,7 @@ See Agave, the Solana validator implementation from Anza: https://github.com/anz
 
 # Building
 
-## **1. Install rustc, cargo and rustfmt.**
+## **1. Install rustc, cargo and rustfmt.**``
 
 ```bash
 $ curl https://sh.rustup.rs -sSf | sh
